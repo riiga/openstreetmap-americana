@@ -7,4 +7,4 @@ https://cloud.maptiler.com/maps/
 Go to Account->Keys and create a key to paste here:
 */
 
-var mapTilerKey = "<your MapTiler key>"; //
+var mapTilerKey = "hJFMGrd2JszhwfJx5M2k"; //This key only allows requests from zelonewolf.github.io
