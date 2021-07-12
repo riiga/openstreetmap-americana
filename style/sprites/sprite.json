@@ -1,0 +1,422 @@
+{
+  "diamond": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 14,
+    "x": 49,
+    "y": 370
+  },
+  "dot_city": {
+    "height": 16,
+    "pixelRatio": 1,
+    "width": 16,
+    "x": 33,
+    "y": 370
+  },
+  "oneway": {
+    "height": 11,
+    "pixelRatio": 1,
+    "width": 22,
+    "x": 63,
+    "y": 370
+  },
+  "star_nation_capital": {
+    "height": 35,
+    "pixelRatio": 1,
+    "width": 35,
+    "x": 420,
+    "y": 320
+  },
+  "star_state_capital": {
+    "height": 33,
+    "pixelRatio": 1,
+    "width": 33,
+    "x": 0,
+    "y": 370
+  },
+  "us_alabama": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 60,
+    "y": 0
+  },
+  "us_american_samoa": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 0,
+    "y": 70
+  },
+  "us_arizona": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 60,
+    "y": 70
+  },
+  "us_arkansas": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 120,
+    "y": 70
+  },
+  "us_blue_pentagon": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 180,
+    "y": 70
+  },
+  "us_blue_rectangle": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 120,
+    "y": 0
+  },
+  "us_business_interstate": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 180,
+    "y": 0
+  },
+  "us_california": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 0,
+    "y": 120
+  },
+  "us_colorado": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 60,
+    "y": 120
+  },
+  "us_district_of_columbia": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 120,
+    "y": 120
+  },
+  "us_florida": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 180,
+    "y": 120
+  },
+  "us_forest_route": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 0,
+    "y": 170
+  },
+  "us_georgia": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 60,
+    "y": 170
+  },
+  "us_guam": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 120,
+    "y": 170
+  },
+  "us_hampshire_new": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 180,
+    "y": 170
+  },
+  "us_hawaii": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 0,
+    "y": 220
+  },
+  "us_idaho": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 60,
+    "y": 220
+  },
+  "us_indian_route": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 120,
+    "y": 220
+  },
+  "us_interstate": {
+    "height": 70,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 0,
+    "y": 0
+  },
+  "us_kansas": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 180,
+    "y": 220
+  },
+  "us_kentucky_parkway": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 240,
+    "y": 70
+  },
+  "us_long_island_parkway": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 300,
+    "y": 70
+  },
+  "us_louisiana": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 360,
+    "y": 70
+  },
+  "us_maryland": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 420,
+    "y": 70
+  },
+  "us_minnesota": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 240,
+    "y": 120
+  },
+  "us_minnesota_business": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 300,
+    "y": 120
+  },
+  "us_missouri": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 360,
+    "y": 120
+  },
+  "us_montana_secondary": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 420,
+    "y": 120
+  },
+  "us_nebraska": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 240,
+    "y": 170
+  },
+  "us_nevada": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 300,
+    "y": 170
+  },
+  "us_north_dakota": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 360,
+    "y": 170
+  },
+  "us_northern_mariana_islands": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 420,
+    "y": 170
+  },
+  "us_ohio": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 240,
+    "y": 220
+  },
+  "us_oklahoma": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 300,
+    "y": 220
+  },
+  "us_oregon": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 360,
+    "y": 220
+  },
+  "us_pennsylvania": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 420,
+    "y": 220
+  },
+  "us_pennsylvania_turnpike": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 240,
+    "y": 0
+  },
+  "us_puerto_rico": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 300,
+    "y": 0
+  },
+  "us_south_carolina": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 360,
+    "y": 0
+  },
+  "us_south_dakota": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 420,
+    "y": 0
+  },
+  "us_tennessee": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 0,
+    "y": 270
+  },
+  "us_tennessee_secondary": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 60,
+    "y": 270
+  },
+  "us_us_route": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 120,
+    "y": 270
+  },
+  "us_utah": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 180,
+    "y": 270
+  },
+  "us_vermont": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 240,
+    "y": 270
+  },
+  "us_virginia": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 300,
+    "y": 270
+  },
+  "us_washington": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 360,
+    "y": 270
+  },
+  "us_west_virginia_home_access": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 420,
+    "y": 270
+  },
+  "us_white_diamond": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 0,
+    "y": 320
+  },
+  "us_white_ellipse": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 60,
+    "y": 320
+  },
+  "us_white_rectangle": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 120,
+    "y": 320
+  },
+  "us_wisconsin": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 180,
+    "y": 320
+  },
+  "us_wyoming": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 240,
+    "y": 320
+  },
+  "us_york_new": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 300,
+    "y": 320
+  },
+  "us_york_new_parkway": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 360,
+    "y": 320
+  }
+}
