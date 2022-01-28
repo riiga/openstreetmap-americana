@@ -3,15 +3,15 @@
     "height": 16,
     "pixelRatio": 1,
     "width": 16,
-    "x": 219,
+    "x": 264,
     "y": 75
   },
   "oneway": {
     "height": 11,
     "pixelRatio": 1,
     "width": 22,
-    "x": 235,
-    "y": 75
+    "x": 130,
+    "y": 95
   },
   "shield40_eu_at_2": {
     "height": 20,
@@ -220,7 +220,7 @@
     "height": 18,
     "pixelRatio": 1,
     "width": 18,
-    "x": 201,
+    "x": 246,
     "y": 75
   },
   "shield40_us_nj_gsp_noref": {
@@ -262,7 +262,7 @@
     "height": 19,
     "pixelRatio": 1,
     "width": 25,
-    "x": 176,
+    "x": 221,
     "y": 75
   },
   "shield40_us_oh_turnpike": {
@@ -272,67 +272,81 @@
     "x": 255,
     "y": 35
   },
-  "shield40_us_pa": {
+  "shield40_us_or_2": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 130,
+    "y": 55
+  },
+  "shield40_us_or_3": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 25,
+    "x": 150,
+    "y": 55
+  },
+  "shield40_us_pa": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 175,
     "y": 55
   },
   "shield40_us_pa_turnpike": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 150,
+    "x": 195,
     "y": 55
   },
   "shield40_us_pa_turnpike_noref": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 170,
+    "x": 215,
     "y": 55
   },
   "shield40_us_sc": {
     "height": 20,
     "pixelRatio": 1,
     "width": 25,
-    "x": 190,
+    "x": 235,
     "y": 55
   },
   "shield40_us_us_2": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 215,
+    "x": 260,
     "y": 55
   },
   "shield40_us_us_3": {
     "height": 20,
     "pixelRatio": 1,
     "width": 25,
-    "x": 235,
-    "y": 55
+    "x": 130,
+    "y": 75
   },
   "shield40_us_va": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 260,
-    "y": 55
+    "x": 155,
+    "y": 75
   },
   "shield40_us_vt": {
     "height": 20,
     "pixelRatio": 1,
     "width": 26,
-    "x": 130,
+    "x": 175,
     "y": 75
   },
   "shield40_us_wa": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 156,
+    "x": 201,
     "y": 75
   },
   "star_nation_capital": {

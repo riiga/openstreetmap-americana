@@ -3,15 +3,15 @@
     "height": 32,
     "pixelRatio": 2,
     "width": 32,
-    "x": 443,
-    "y": 150
+    "x": 261,
+    "y": 190
   },
   "oneway": {
     "height": 23,
     "pixelRatio": 2,
     "width": 44,
-    "x": 475,
-    "y": 150
+    "x": 293,
+    "y": 190
   },
   "shield40_eu_at_2": {
     "height": 40,
@@ -262,7 +262,7 @@
     "height": 39,
     "pixelRatio": 2,
     "width": 50,
-    "x": 393,
+    "x": 483,
     "y": 150
   },
   "shield40_us_oh_turnpike": {
@@ -272,67 +272,81 @@
     "x": 511,
     "y": 70
   },
-  "shield40_us_pa": {
+  "shield40_us_or_2": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
     "x": 261,
+    "y": 110
+  },
+  "shield40_us_or_3": {
+    "height": 40,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 301,
+    "y": 110
+  },
+  "shield40_us_pa": {
+    "height": 40,
+    "pixelRatio": 2,
+    "width": 40,
+    "x": 351,
     "y": 110
   },
   "shield40_us_pa_turnpike": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 301,
+    "x": 391,
     "y": 110
   },
   "shield40_us_pa_turnpike_noref": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 341,
+    "x": 431,
     "y": 110
   },
   "shield40_us_sc": {
     "height": 40,
     "pixelRatio": 2,
     "width": 50,
-    "x": 381,
+    "x": 471,
     "y": 110
   },
   "shield40_us_us_2": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 431,
-    "y": 110
+    "x": 261,
+    "y": 150
   },
   "shield40_us_us_3": {
     "height": 40,
     "pixelRatio": 2,
     "width": 50,
-    "x": 471,
-    "y": 110
+    "x": 301,
+    "y": 150
   },
   "shield40_us_va": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 261,
+    "x": 351,
     "y": 150
   },
   "shield40_us_vt": {
     "height": 40,
     "pixelRatio": 2,
     "width": 52,
-    "x": 301,
+    "x": 391,
     "y": 150
   },
   "shield40_us_wa": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 353,
+    "x": 443,
     "y": 150
   },
   "star_nation_capital": {
