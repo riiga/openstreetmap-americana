@@ -10,7 +10,7 @@
     "height": 24,
     "pixelRatio": 2,
     "width": 47,
-    "x": 428,
+    "x": 478,
     "y": 0
   },
   "shield40_ch_2": {
@@ -376,6 +376,13 @@
     "width": 40,
     "x": 401,
     "y": 190
+  },
+  "shield40_us_oh_tus_salem": {
+    "height": 39,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 428,
+    "y": 0
   },
   "shield40_us_or_2": {
     "height": 40,
