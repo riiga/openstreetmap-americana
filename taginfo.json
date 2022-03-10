@@ -2185,6 +2185,24 @@
     },
     {
       "key": "network",
+      "value": "PH:N",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_ph_national_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "PH:E",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_ph_expressway_2.svg"
+    },
+    {
+      "key": "network",
       "value": "TW:freeway",
       "object_types": [
         "relation"
