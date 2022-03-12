@@ -298,6 +298,14 @@
     },
     {
       "key": "network",
+      "value": "US:CT",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
       "value": "US:DE",
       "object_types": [
         "relation"
@@ -428,6 +436,22 @@
     },
     {
       "key": "network",
+      "value": "US:IL",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:IN",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
       "value": "US:KS",
       "object_types": [
         "relation"
@@ -471,6 +495,14 @@
     },
     {
       "key": "network",
+      "value": "US:MA",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
       "value": "US:MI",
       "object_types": [
         "relation"
@@ -486,6 +518,14 @@
       ],
       "description": "Roads carrying routes in this network are marked by shields.",
       "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:ME",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
     },
     {
       "key": "network",
@@ -881,6 +921,214 @@
     },
     {
       "key": "network",
+      "value": "US:OH:CAR",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:COS",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:FAI",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:FUL",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:GAL",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:HAS",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:HOC",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:HOL",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:KNO",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:LAW",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:LIC",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:LOG",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:MAD",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:MRG",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:MRW",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:PER",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:UNI",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:WAY",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:BEL:Kirkwood",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:HAR:Dudley",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:JEF:Springfield",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:MED:Harrisville",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:MED:Wadsworth",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:SAN:Fremont",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:TRU:Kinsman",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:WYA:township",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
       "value": "US:OH:ATH",
       "object_types": [
         "relation"
@@ -1189,46 +1437,6 @@
     },
     {
       "key": "network",
-      "value": "US:OH:MED:York",
-      "object_types": [
-        "relation"
-      ],
-      "description": "Roads carrying routes in this network are marked by shields modified by TWP banners."
-    },
-    {
-      "key": "network",
-      "value": "US:OH:PAU:Latty",
-      "object_types": [
-        "relation"
-      ],
-      "description": "Roads carrying routes in this network are marked by shields modified by TWP banners."
-    },
-    {
-      "key": "network",
-      "value": "US:OH:PAU:Washington",
-      "object_types": [
-        "relation"
-      ],
-      "description": "Roads carrying routes in this network are marked by shields modified by TWP banners."
-    },
-    {
-      "key": "network",
-      "value": "US:OH:WAS:Aurelius",
-      "object_types": [
-        "relation"
-      ],
-      "description": "Roads carrying routes in this network are marked by shields modified by TWP banners."
-    },
-    {
-      "key": "network",
-      "value": "US:OH:WAS:Salem",
-      "object_types": [
-        "relation"
-      ],
-      "description": "Roads carrying routes in this network are marked by shields modified by TWP banners."
-    },
-    {
-      "key": "network",
       "value": "US:OH:FAI:Violet",
       "object_types": [
         "relation"
@@ -1405,6 +1613,14 @@
     },
     {
       "key": "network",
+      "value": "US:OH:MED:York",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by TWP banners."
+    },
+    {
+      "key": "network",
       "value": "US:OH:MRW:Canaan",
       "object_types": [
         "relation"
@@ -1437,7 +1653,39 @@
     },
     {
       "key": "network",
+      "value": "US:OH:PAU:Latty",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by TWP banners."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:PAU:Washington",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by TWP banners."
+    },
+    {
+      "key": "network",
       "value": "US:OH:PER:Coal",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by TWP banners."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:WAS:Aurelius",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by TWP banners."
+    },
+    {
+      "key": "network",
+      "value": "US:OH:WAS:Salem",
       "object_types": [
         "relation"
       ],
@@ -1509,6 +1757,14 @@
     {
       "key": "network",
       "value": "US:PA:Belt",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:RI",
       "object_types": [
         "relation"
       ],
@@ -1629,6 +1885,14 @@
       ],
       "description": "Roads carrying routes in this network are marked by shields modified by ALT banners.",
       "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_wa.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:WV",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
     },
     {
       "key": "network",
@@ -2192,6 +2456,102 @@
     },
     {
       "key": "network",
+      "value": "CN:FJ:Ningde",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "CN:GD:Gaozhou",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "CN:GD:Dianbai",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "CN:GD:Huazhou",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "CN:GD:Maoming",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "CN:GD:Maonan",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "CN:GD:Xinyi",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "CN:HA:Luoyang",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "CN:HA:Mengjin",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "CN:JS:Liyang",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "CN:JS:Xuzhou",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "CN:JS:Wuzhong",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
       "value": "HK",
       "object_types": [
         "relation"
@@ -2264,7 +2624,47 @@
     },
     {
       "key": "network",
+      "value": "TW:city",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "TW:county",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "TW:district",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "TW:township",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
       "value": "vn:expressway",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "vn:national",
       "object_types": [
         "relation"
       ],
