@@ -2613,6 +2613,31 @@
     },
     {
       "key": "network",
+      "value": "KR:expressway",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_kr_expressway_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "KR:national",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "KR:local",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
       "value": "TW:freeway",
       "object_types": [
         "relation"
