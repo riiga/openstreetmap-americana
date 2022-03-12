@@ -1632,6 +1632,22 @@
     },
     {
       "key": "network",
+      "value": "BD:national",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "BD:regional",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
       "value": "CN:national",
       "object_types": [
         "relation"
