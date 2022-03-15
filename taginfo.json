@@ -452,6 +452,14 @@
     },
     {
       "key": "network",
+      "value": "US:IN:Toll",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
       "value": "US:KS",
       "object_types": [
         "relation"
