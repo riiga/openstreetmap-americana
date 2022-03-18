@@ -596,6 +596,14 @@
     },
     {
       "key": "network",
+      "value": "US:MT:secondary",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
       "value": "US:NC",
       "object_types": [
         "relation"
