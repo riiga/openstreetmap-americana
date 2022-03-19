@@ -1867,6 +1867,166 @@
     },
     {
       "key": "network",
+      "value": "US:TX",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:Andrews:Andrews:Loop",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by LOOP banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:Loop",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by LOOP banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:Spur",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by SPUR banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:Business",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by BUS banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:Park",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by PARK banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:Beltway",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by BELT banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:FM",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by F.M. banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:FM:Business",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by BUS, F.M. banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:PA",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by P.A. banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:RM",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by R.M. banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:Recreational",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by R banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:NASA",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by NASA banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:Toll",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by TOLL banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:BCTRA",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by TOLL banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:CTRMA",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by TOLL banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:NTTA",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by TOLL banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:Express:Toll",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by EXPR, TOLL banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:Loop:Toll",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by TOLL, LOOP banners."
+    },
+    {
+      "key": "network",
+      "value": "US:TX:Loop:Express:Toll",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by EXPR, TOLL, LOOP banners."
+    },
+    {
+      "key": "network",
       "value": "US:VA",
       "object_types": [
         "relation"
