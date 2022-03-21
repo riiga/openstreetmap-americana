@@ -881,6 +881,14 @@
     },
     {
       "key": "network",
+      "value": "US:NY:STE",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
       "value": "US:OH",
       "object_types": [
         "relation"
