@@ -2070,6 +2070,14 @@
     },
     {
       "key": "network",
+      "value": "US:VI",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
       "value": "US:VT",
       "object_types": [
         "relation"
