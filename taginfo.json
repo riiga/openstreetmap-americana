@@ -134,6 +134,14 @@
     },
     {
       "key": "network",
+      "value": "CA:YT",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
       "value": "US:I",
       "object_types": [
         "relation"
