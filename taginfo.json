@@ -295,6 +295,15 @@
     },
     {
       "key": "network",
+      "value": "US:AS",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_as.svg"
+    },
+    {
+      "key": "network",
       "value": "US:AZ",
       "object_types": [
         "relation"
@@ -479,6 +488,15 @@
     },
     {
       "key": "network",
+      "value": "US:GU",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_gu_2.svg"
+    },
+    {
+      "key": "network",
       "value": "US:HI",
       "object_types": [
         "relation"
@@ -612,6 +630,15 @@
       ],
       "description": "Roads carrying routes in this network are marked by shields.",
       "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_mn_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:MP",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_mp_2.svg"
     },
     {
       "key": "network",
