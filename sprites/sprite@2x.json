@@ -10,7 +10,7 @@
     "height": 24,
     "pixelRatio": 2,
     "width": 47,
-    "x": 232,
+    "x": 322,
     "y": 322
   },
   "shield40_ca_nt": {
@@ -472,7 +472,7 @@
     "height": 39,
     "pixelRatio": 2,
     "width": 50,
-    "x": 132,
+    "x": 222,
     "y": 322
   },
   "shield40_us_oh_asd": {
@@ -507,7 +507,7 @@
     "height": 39,
     "pixelRatio": 2,
     "width": 50,
-    "x": 182,
+    "x": 272,
     "y": 322
   },
   "shield40_us_or_2": {
@@ -580,25 +580,39 @@
     "x": 492,
     "y": 282
   },
-  "shield40_us_va": {
+  "shield40_us_ut_2": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
     "x": 0,
     "y": 322
   },
+  "shield40_us_ut_3": {
+    "height": 40,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 40,
+    "y": 322
+  },
+  "shield40_us_va": {
+    "height": 40,
+    "pixelRatio": 2,
+    "width": 40,
+    "x": 90,
+    "y": 322
+  },
   "shield40_us_vt": {
     "height": 40,
     "pixelRatio": 2,
     "width": 52,
-    "x": 40,
+    "x": 130,
     "y": 322
   },
   "shield40_us_wa": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 92,
+    "x": 182,
     "y": 322
   },
   "star_nation_capital": {
