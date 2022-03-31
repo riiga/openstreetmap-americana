@@ -694,6 +694,15 @@
     },
     {
       "key": "network",
+      "value": "US:NC:Charlotte",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_nc_charlotte.svg"
+    },
+    {
+      "key": "network",
       "value": "US:NH",
       "object_types": [
         "relation"
