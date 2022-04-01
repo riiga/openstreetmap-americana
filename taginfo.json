@@ -739,6 +739,51 @@
     },
     {
       "key": "network",
+      "value": "US:NE",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_ne_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:NE:Business",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by BUS banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_ne_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:NE:Link",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by LINK banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_ne_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:NE:Rec",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by REC banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_ne_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:NE:Spur",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by SPUR banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_ne_2.svg"
+    },
+    {
+      "key": "network",
       "value": "US:NH",
       "object_types": [
         "relation"
