@@ -10,7 +10,7 @@
     "height": 24,
     "pixelRatio": 2,
     "width": 47,
-    "x": 194,
+    "x": 274,
     "y": 362
   },
   "shield40_ca_nt": {
@@ -370,32 +370,46 @@
     "x": 431,
     "y": 0
   },
-  "shield40_us_mn_2": {
+  "shield40_us_la_2": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
     "x": 471,
     "y": 0
   },
+  "shield40_us_la_3": {
+    "height": 40,
+    "pixelRatio": 2,
+    "width": 52,
+    "x": 0,
+    "y": 242
+  },
+  "shield40_us_mn_2": {
+    "height": 40,
+    "pixelRatio": 2,
+    "width": 40,
+    "x": 52,
+    "y": 242
+  },
   "shield40_us_mn_3": {
     "height": 40,
     "pixelRatio": 2,
     "width": 50,
-    "x": 0,
+    "x": 92,
     "y": 242
   },
   "shield40_us_mp_2": {
     "height": 40,
     "pixelRatio": 2,
     "width": 42,
-    "x": 50,
+    "x": 142,
     "y": 242
   },
   "shield40_us_mp_3": {
     "height": 40,
     "pixelRatio": 2,
     "width": 54,
-    "x": 92,
+    "x": 184,
     "y": 242
   },
   "shield40_us_mt_secondary": {
@@ -409,70 +423,70 @@
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 146,
+    "x": 238,
     "y": 242
   },
   "shield40_us_nc_charlotte": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 186,
+    "x": 278,
     "y": 242
   },
   "shield40_us_nd_2": {
     "height": 40,
     "pixelRatio": 2,
     "width": 54,
-    "x": 226,
+    "x": 318,
     "y": 242
   },
   "shield40_us_nd_3": {
     "height": 40,
     "pixelRatio": 2,
     "width": 70,
-    "x": 280,
+    "x": 372,
     "y": 242
   },
   "shield40_us_ne_2": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 350,
+    "x": 442,
     "y": 242
   },
   "shield40_us_ne_3": {
     "height": 40,
     "pixelRatio": 2,
     "width": 52,
-    "x": 390,
+    "x": 482,
     "y": 242
   },
   "shield40_us_nh": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 442,
-    "y": 242
+    "x": 511,
+    "y": 0
   },
   "shield40_us_nj_ace_noref": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 482,
-    "y": 242
+    "x": 0,
+    "y": 282
   },
   "shield40_us_nj_gsp_noref": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 511,
-    "y": 0
+    "x": 40,
+    "y": 282
   },
   "shield40_us_nj_njtp_noref": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 0,
+    "x": 80,
     "y": 282
   },
   "shield40_us_nv": {
@@ -486,196 +500,196 @@
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 40,
+    "x": 120,
     "y": 282
   },
   "shield40_us_ny_ste": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 80,
+    "x": 160,
     "y": 282
   },
   "shield40_us_ny_thruway": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 120,
+    "x": 200,
     "y": 282
   },
   "shield40_us_oh_2": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 160,
+    "x": 240,
     "y": 282
   },
   "shield40_us_oh_3": {
     "height": 39,
     "pixelRatio": 2,
     "width": 50,
-    "x": 94,
+    "x": 174,
     "y": 362
   },
   "shield40_us_oh_asd": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 200,
+    "x": 280,
     "y": 282
   },
   "shield40_us_oh_sci_2": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 240,
+    "x": 320,
     "y": 282
   },
   "shield40_us_oh_sci_3": {
     "height": 40,
     "pixelRatio": 2,
     "width": 50,
-    "x": 280,
+    "x": 360,
     "y": 282
   },
   "shield40_us_oh_turnpike": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 330,
+    "x": 410,
     "y": 282
   },
   "shield40_us_oh_tus_salem": {
     "height": 39,
     "pixelRatio": 2,
     "width": 50,
-    "x": 144,
+    "x": 224,
     "y": 362
   },
   "shield40_us_or_2": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 370,
+    "x": 450,
     "y": 282
   },
   "shield40_us_or_3": {
     "height": 40,
     "pixelRatio": 2,
     "width": 50,
-    "x": 410,
+    "x": 490,
     "y": 282
   },
   "shield40_us_pa": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 460,
-    "y": 282
+    "x": 0,
+    "y": 322
   },
   "shield40_us_pa_turnpike": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 500,
-    "y": 282
+    "x": 40,
+    "y": 322
   },
   "shield40_us_pa_turnpike_noref": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 0,
+    "x": 80,
     "y": 322
   },
   "shield40_us_sc": {
     "height": 40,
     "pixelRatio": 2,
     "width": 50,
-    "x": 40,
+    "x": 120,
     "y": 322
   },
   "shield40_us_sd_2": {
     "height": 40,
     "pixelRatio": 2,
     "width": 46,
-    "x": 90,
+    "x": 170,
     "y": 322
   },
   "shield40_us_sd_3": {
     "height": 40,
     "pixelRatio": 2,
     "width": 56,
-    "x": 136,
+    "x": 216,
     "y": 322
   },
   "shield40_us_us_2": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 192,
+    "x": 272,
     "y": 322
   },
   "shield40_us_us_3": {
     "height": 40,
     "pixelRatio": 2,
     "width": 50,
-    "x": 232,
+    "x": 312,
     "y": 322
   },
   "shield40_us_ut_2": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 282,
+    "x": 362,
     "y": 322
   },
   "shield40_us_ut_3": {
     "height": 40,
     "pixelRatio": 2,
     "width": 50,
-    "x": 322,
+    "x": 402,
     "y": 322
   },
   "shield40_us_va": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 372,
+    "x": 452,
     "y": 322
   },
   "shield40_us_vt": {
     "height": 40,
     "pixelRatio": 2,
     "width": 52,
-    "x": 412,
+    "x": 492,
     "y": 322
   },
   "shield40_us_wa": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 464,
-    "y": 322
+    "x": 0,
+    "y": 362
   },
   "shield40_us_wi_2": {
     "height": 40,
     "pixelRatio": 2,
     "width": 40,
-    "x": 504,
-    "y": 322
+    "x": 40,
+    "y": 362
   },
   "shield40_us_wi_3": {
     "height": 40,
     "pixelRatio": 2,
     "width": 52,
-    "x": 0,
+    "x": 80,
     "y": 362
   },
   "shield40_us_wi_rustic": {
     "height": 40,
     "pixelRatio": 2,
     "width": 42,
-    "x": 52,
+    "x": 132,
     "y": 362
   },
   "star_nation_capital": {
