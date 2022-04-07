@@ -295,6 +295,24 @@
     },
     {
       "key": "network",
+      "value": "US:AL",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_al_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:AL:Truck",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by TRK banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_al_2.svg"
+    },
+    {
+      "key": "network",
       "value": "US:AS",
       "object_types": [
         "relation"
