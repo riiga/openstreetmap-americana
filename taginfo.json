@@ -838,6 +838,67 @@
     },
     {
       "key": "network",
+      "value": "US:MO",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_mo_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:MO:Alternate",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by ALT banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_mo_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:MO:Business",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by BUS banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_mo_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:MO:Spur",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by SPUR banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_mo_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:MO:Supplemental",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "US:MO:Supplemental:Spur",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by SPUR banners."
+    },
+    {
+      "key": "network",
+      "value": "US:MO:Taney",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county.svg"
+    },
+    {
+      "key": "network",
       "value": "US:MP",
       "object_types": [
         "relation"
