@@ -1733,25 +1733,7 @@
     },
     {
       "key": "network",
-      "value": "US:NJ:Camden",
-      "object_types": [
-        "relation"
-      ],
-      "description": "Roads carrying routes in this network are marked by shields.",
-      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
-    },
-    {
-      "key": "network",
-      "value": "US:NJ:Cumberland",
-      "object_types": [
-        "relation"
-      ],
-      "description": "Roads carrying routes in this network are marked by shields.",
-      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
-    },
-    {
-      "key": "network",
-      "value": "US:NJ:Passaic",
+      "value": "US:NJ:Atlantic",
       "object_types": [
         "relation"
       ],
@@ -1769,6 +1751,33 @@
     },
     {
       "key": "network",
+      "value": "US:NJ:Camden",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:NJ:Cape_May",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:NJ:Cumberland",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
+    },
+    {
+      "key": "network",
       "value": "US:NJ:Essex",
       "object_types": [
         "relation"
@@ -1778,7 +1787,88 @@
     },
     {
       "key": "network",
-      "value": "US:NJ:Atlantic",
+      "value": "US:NJ:Gloucester",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:NJ:Hudson",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:NJ:Hunterdon",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:NJ:Mercer",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:NJ:Middlesex",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:NJ:Monmouth",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:NJ:Morris",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:NJ:Ocean",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:NJ:Passaic",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:NJ:Salem",
       "object_types": [
         "relation"
       ],
@@ -1805,51 +1895,6 @@
     },
     {
       "key": "network",
-      "value": "US:NJ:Morris",
-      "object_types": [
-        "relation"
-      ],
-      "description": "Roads carrying routes in this network are marked by shields.",
-      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
-    },
-    {
-      "key": "network",
-      "value": "US:NJ:Monmouth",
-      "object_types": [
-        "relation"
-      ],
-      "description": "Roads carrying routes in this network are marked by shields.",
-      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
-    },
-    {
-      "key": "network",
-      "value": "US:NJ:Ocean",
-      "object_types": [
-        "relation"
-      ],
-      "description": "Roads carrying routes in this network are marked by shields.",
-      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
-    },
-    {
-      "key": "network",
-      "value": "US:NJ:Middlesex",
-      "object_types": [
-        "relation"
-      ],
-      "description": "Roads carrying routes in this network are marked by shields.",
-      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
-    },
-    {
-      "key": "network",
-      "value": "US:NJ:Mercer",
-      "object_types": [
-        "relation"
-      ],
-      "description": "Roads carrying routes in this network are marked by shields.",
-      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
-    },
-    {
-      "key": "network",
       "value": "US:NJ:Union",
       "object_types": [
         "relation"
@@ -1868,30 +1913,11 @@
     },
     {
       "key": "network",
-      "value": "US:NJ:Hudson",
+      "value": "US:NJ:Bergen",
       "object_types": [
         "relation"
       ],
-      "description": "Roads carrying routes in this network are marked by shields.",
-      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
-    },
-    {
-      "key": "network",
-      "value": "US:NJ:Salem",
-      "object_types": [
-        "relation"
-      ],
-      "description": "Roads carrying routes in this network are marked by shields.",
-      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
-    },
-    {
-      "key": "network",
-      "value": "US:NJ:Gloucester",
-      "object_types": [
-        "relation"
-      ],
-      "description": "Roads carrying routes in this network are marked by shields.",
-      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
+      "description": "Roads carrying routes in this network are marked by shields."
     },
     {
       "key": "network",
