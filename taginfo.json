@@ -222,6 +222,568 @@
     },
     {
       "key": "network",
+      "value": "CA:ON:primary",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_ca_on_primary.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:primary:Toll",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_ca_on_primary_toll.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:private_toll",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by ETR banners."
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:secondary",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_down_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:tertiary",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Halton",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_green_yellow_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Peel",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_black_yellow_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Simcoe",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Grey",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_blue_white_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Hamilton",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_blue_white_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Niagara",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_blue_white_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Brant",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Bruce",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Chatham-Kent",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Cornwall",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Dufferin",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Durham",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Elgin",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Essex",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Frontenac:Central Frontenac",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Frontenac:Frontenac Islands",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Frontenac:North Frontenac",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Frontenac:South Frontenac",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Greater Sudbury",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Haldimand",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Haliburton",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Hastings:Carlow/Mayo",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Hastings:Hastings Highlands",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Hastings:Limerick",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Hastings:Tyendinaga",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Huron",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Kawartha Lakes",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Kingston",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Lambton",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Lanark",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Leeds and Grenville",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Lennox and Addington",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Middlesex",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Muskoka",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Norfolk",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Northumberland",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Ottawa",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Oxford",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Perth",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Peterborough",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Prescott and Russell",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Prince Edward",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Quinte West",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Renfrew",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Stormont, Dundas and Glengarry",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Waterloo",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Wellington",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:York",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Hastings:Wollaston",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by TWP banners."
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Waterloo:Wellesley",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Waterloo:Woolwich",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Waterloo:North Dumfries",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by TWP banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Waterloo:Wilmot",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by TWP banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Brant:Highway",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by HWY banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Durham:Highway",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by HWY banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Haldimand:Highway",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by HWY banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Norfolk:Highway",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by HWY banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:Muskoka:West",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by WEST banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
+    },
+    {
+      "key": "network",
       "value": "CA:PE",
       "object_types": [
         "relation"
@@ -1631,7 +2193,7 @@
         "relation"
       ],
       "description": "Roads carrying routes in this network are marked by shields.",
-      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_ne_2.svg"
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
     },
     {
       "key": "network",
@@ -1640,7 +2202,7 @@
         "relation"
       ],
       "description": "Roads carrying routes in this network are marked by shields modified by BUS banners.",
-      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_ne_2.svg"
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
     },
     {
       "key": "network",
@@ -1649,7 +2211,7 @@
         "relation"
       ],
       "description": "Roads carrying routes in this network are marked by shields modified by LINK banners.",
-      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_ne_2.svg"
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
     },
     {
       "key": "network",
@@ -1658,7 +2220,7 @@
         "relation"
       ],
       "description": "Roads carrying routes in this network are marked by shields modified by REC banners.",
-      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_ne_2.svg"
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
     },
     {
       "key": "network",
@@ -1667,7 +2229,7 @@
         "relation"
       ],
       "description": "Roads carrying routes in this network are marked by shields modified by SPUR banners.",
-      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_ne_2.svg"
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_trapezoid_up_2.svg"
     },
     {
       "key": "network",
