@@ -3405,6 +3405,60 @@
     },
     {
       "key": "network",
+      "value": "US:OK",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_ok_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:OK:Toll",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_ok_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:OK:Business",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by BUS banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_ok_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:OK:Loop",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by LOOP banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_ok_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:OK:Spur",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by SPUR banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_ok_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:OK:Truck",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by TRK banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_ok_2.svg"
+    },
+    {
+      "key": "network",
       "value": "US:OR",
       "object_types": [
         "relation"
