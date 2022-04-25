@@ -1986,6 +1986,50 @@
     },
     {
       "key": "network",
+      "value": "US:MD",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_md_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:MD:Alternate",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by ALT banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_md_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:MD:Bypass",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by BYP banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_md_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:MD:Business",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by BUS banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_md_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:ME",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
       "value": "US:MI",
       "object_types": [
         "relation"
@@ -2001,14 +2045,6 @@
       ],
       "description": "Roads carrying routes in this network are marked by shields.",
       "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_county_2.svg"
-    },
-    {
-      "key": "network",
-      "value": "US:ME",
-      "object_types": [
-        "relation"
-      ],
-      "description": "Roads carrying routes in this network are marked by shields."
     },
     {
       "key": "network",

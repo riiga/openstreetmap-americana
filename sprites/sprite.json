@@ -3,14 +3,14 @@
     "height": 16,
     "pixelRatio": 1,
     "width": 16,
-    "x": 137,
+    "x": 163,
     "y": 241
   },
   "oneway": {
     "height": 12,
     "pixelRatio": 1,
     "width": 23,
-    "x": 153,
+    "x": 179,
     "y": 241
   },
   "shield40_badge_2": {
@@ -643,46 +643,60 @@
     "x": 0,
     "y": 181
   },
-  "shield40_us_mn_2": {
+  "shield40_us_md_2": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 260,
     "y": 161
   },
-  "shield40_us_mn_3": {
+  "shield40_us_md_3": {
     "height": 20,
     "pixelRatio": 1,
     "width": 25,
     "x": 26,
     "y": 181
   },
-  "shield40_us_mo_2": {
+  "shield40_us_mn_2": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 51,
     "y": 181
   },
-  "shield40_us_mo_3": {
+  "shield40_us_mn_3": {
     "height": 20,
     "pixelRatio": 1,
     "width": 25,
     "x": 71,
     "y": 181
   },
+  "shield40_us_mo_2": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 96,
+    "y": 181
+  },
+  "shield40_us_mo_3": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 25,
+    "x": 116,
+    "y": 181
+  },
   "shield40_us_mp_2": {
     "height": 20,
     "pixelRatio": 1,
     "width": 21,
-    "x": 96,
+    "x": 141,
     "y": 181
   },
   "shield40_us_mp_3": {
     "height": 20,
     "pixelRatio": 1,
     "width": 27,
-    "x": 117,
+    "x": 162,
     "y": 181
   },
   "shield40_us_mt_secondary": {
@@ -696,56 +710,56 @@
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 144,
+    "x": 189,
     "y": 181
   },
   "shield40_us_nc_charlotte": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 164,
+    "x": 209,
     "y": 181
   },
   "shield40_us_nd_2": {
     "height": 20,
     "pixelRatio": 1,
     "width": 27,
-    "x": 184,
+    "x": 229,
     "y": 181
   },
   "shield40_us_nd_3": {
     "height": 20,
     "pixelRatio": 1,
     "width": 35,
-    "x": 211,
-    "y": 181
+    "x": 0,
+    "y": 201
   },
   "shield40_us_nh": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 246,
+    "x": 256,
     "y": 181
   },
   "shield40_us_nj_ace_noref": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 0,
+    "x": 35,
     "y": 201
   },
   "shield40_us_nj_gsp_noref": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 20,
+    "x": 55,
     "y": 201
   },
   "shield40_us_nj_njtp_noref": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 40,
+    "x": 75,
     "y": 201
   },
   "shield40_us_nv": {
@@ -759,196 +773,196 @@
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 60,
+    "x": 95,
     "y": 201
   },
   "shield40_us_ny_ste": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 80,
+    "x": 115,
     "y": 201
   },
   "shield40_us_ny_thruway": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 100,
+    "x": 135,
     "y": 201
   },
   "shield40_us_oh_2": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 120,
+    "x": 155,
     "y": 201
   },
   "shield40_us_oh_3": {
     "height": 19,
     "pixelRatio": 1,
     "width": 25,
-    "x": 87,
+    "x": 113,
     "y": 241
   },
   "shield40_us_oh_asd": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 140,
+    "x": 175,
     "y": 201
   },
   "shield40_us_oh_sci_2": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 160,
+    "x": 195,
     "y": 201
   },
   "shield40_us_oh_sci_3": {
     "height": 20,
     "pixelRatio": 1,
     "width": 25,
-    "x": 180,
+    "x": 215,
     "y": 201
   },
   "shield40_us_oh_turnpike": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 205,
+    "x": 240,
     "y": 201
   },
   "shield40_us_oh_tus_salem": {
     "height": 19,
     "pixelRatio": 1,
     "width": 25,
-    "x": 112,
+    "x": 138,
     "y": 241
   },
   "shield40_us_ok_2": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 225,
+    "x": 260,
     "y": 201
   },
   "shield40_us_ok_3": {
     "height": 20,
     "pixelRatio": 1,
     "width": 25,
-    "x": 245,
-    "y": 201
+    "x": 0,
+    "y": 221
   },
   "shield40_us_or_2": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 0,
+    "x": 25,
     "y": 221
   },
   "shield40_us_or_3": {
     "height": 20,
     "pixelRatio": 1,
     "width": 25,
-    "x": 20,
+    "x": 45,
     "y": 221
   },
   "shield40_us_pa": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 45,
+    "x": 70,
     "y": 221
   },
   "shield40_us_pa_turnpike": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 65,
+    "x": 90,
     "y": 221
   },
   "shield40_us_pa_turnpike_noref": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 85,
+    "x": 110,
     "y": 221
   },
   "shield40_us_sc": {
     "height": 20,
     "pixelRatio": 1,
     "width": 25,
-    "x": 105,
+    "x": 130,
     "y": 221
   },
   "shield40_us_sd_2": {
     "height": 20,
     "pixelRatio": 1,
     "width": 23,
-    "x": 130,
+    "x": 155,
     "y": 221
   },
   "shield40_us_sd_3": {
     "height": 20,
     "pixelRatio": 1,
     "width": 28,
-    "x": 153,
+    "x": 178,
     "y": 221
   },
   "shield40_us_ut_2": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 181,
+    "x": 206,
     "y": 221
   },
   "shield40_us_ut_3": {
     "height": 20,
     "pixelRatio": 1,
     "width": 25,
-    "x": 201,
+    "x": 226,
     "y": 221
   },
   "shield40_us_va": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 226,
+    "x": 251,
     "y": 221
   },
   "shield40_us_vt": {
     "height": 20,
     "pixelRatio": 1,
     "width": 26,
-    "x": 246,
-    "y": 221
+    "x": 0,
+    "y": 241
   },
   "shield40_us_wa": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 0,
+    "x": 26,
     "y": 241
   },
   "shield40_us_wi_2": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
-    "x": 20,
+    "x": 46,
     "y": 241
   },
   "shield40_us_wi_3": {
     "height": 20,
     "pixelRatio": 1,
     "width": 26,
-    "x": 40,
+    "x": 66,
     "y": 241
   },
   "shield40_us_wi_rustic": {
     "height": 20,
     "pixelRatio": 1,
     "width": 21,
-    "x": 66,
+    "x": 92,
     "y": 241
   },
   "star_nation_capital": {
