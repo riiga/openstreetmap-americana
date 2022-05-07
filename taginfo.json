@@ -5177,6 +5177,455 @@
     },
     {
       "key": "network",
+      "value": "JP:E",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
+      "value": "JP:national",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_national_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:aichi",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:akita",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:aomori",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:chiba",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:ehime",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:fukui",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:fukuoka",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:fukushima",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:gifu",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:gunma",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:hiroshima",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:hokkaido",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:hyogo",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:ibaraki",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:ishikawa",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:iwate",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:kagawa",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:kagoshima",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:kanagawa",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:kochi",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:kumamoto",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:kyoto",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:mie",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:miyagi",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:miyazaki",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:nagano",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:nagasaki",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:nara",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:niigata",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:oita",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:okayama",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:okinawa",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:osaka",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:saga",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:saitama",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:shiga",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:shimane",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:shizuoka",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:tochigi",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:tokushima",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:tokyo",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:tottori",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:toyama",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:wakayama",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:yamagata",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:yamaguchi",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
+      "value": "JP:prefectural:yamanashi",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_jp_prefectural.svg"
+    },
+    {
+      "key": "network",
       "value": "my:federal",
       "object_types": [
         "relation"
