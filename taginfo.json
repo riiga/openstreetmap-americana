@@ -5857,24 +5857,6 @@
     },
     {
       "key": "network",
-      "value": "Autoceste",
-      "object_types": [
-        "relation"
-      ],
-      "description": "Roads carrying routes in this network are marked by shields.",
-      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_si_2.svg"
-    },
-    {
-      "key": "network",
-      "value": "Državne ceste",
-      "object_types": [
-        "relation"
-      ],
-      "description": "Roads carrying routes in this network are marked by shields.",
-      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_cz_prim_2.svg"
-    },
-    {
-      "key": "network",
       "value": "NL:A",
       "object_types": [
         "relation"
