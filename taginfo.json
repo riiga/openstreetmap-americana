@@ -91,6 +91,14 @@
     },
     {
       "key": "network",
+      "value": "default",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
       "value": "CA:transcanada",
       "object_types": [
         "relation"
