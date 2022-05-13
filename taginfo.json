@@ -3857,6 +3857,14 @@
     },
     {
       "key": "network",
+      "value": "US:VT:Town",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
       "value": "US:WA",
       "object_types": [
         "relation"
