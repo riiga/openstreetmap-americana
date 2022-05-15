@@ -1,16 +1,30 @@
 {
-  "dot_city": {
+  "airport": {
     "height": 16,
     "pixelRatio": 1,
     "width": 16,
     "x": 433,
     "y": 61
   },
+  "dot_city": {
+    "height": 16,
+    "pixelRatio": 1,
+    "width": 16,
+    "x": 449,
+    "y": 61
+  },
+  "military_airport": {
+    "height": 16,
+    "pixelRatio": 1,
+    "width": 16,
+    "x": 465,
+    "y": 61
+  },
   "oneway": {
     "height": 12,
     "pixelRatio": 1,
     "width": 23,
-    "x": 449,
+    "x": 481,
     "y": 61
   },
   "shield40_badge_2": {
