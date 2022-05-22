@@ -881,6 +881,24 @@
     },
     {
       "key": "network",
+      "value": "US:I:Express",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by EXPR banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_interstate_2.svg"
+    },
+    {
+      "key": "network",
+      "value": "US:I:Express:Toll",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields modified by EXPR banners.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_interstate_2.svg"
+    },
+    {
+      "key": "network",
       "value": "US:I:Business:Loop",
       "object_types": [
         "relation"
@@ -1177,7 +1195,7 @@
       "object_types": [
         "relation"
       ],
-      "description": "Roads carrying routes in this network are marked by shields modified by TOLL banners.",
+      "description": "Roads carrying routes in this network are marked by shields.",
       "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_fl_toll.svg"
     },
     {
@@ -3744,7 +3762,7 @@
       "object_types": [
         "relation"
       ],
-      "description": "Roads carrying routes in this network are marked by shields modified by TOLL banners."
+      "description": "Roads carrying routes in this network are marked by shields."
     },
     {
       "key": "network",
@@ -3752,7 +3770,7 @@
       "object_types": [
         "relation"
       ],
-      "description": "Roads carrying routes in this network are marked by shields modified by TOLL banners."
+      "description": "Roads carrying routes in this network are marked by shields."
     },
     {
       "key": "network",
@@ -3760,7 +3778,7 @@
       "object_types": [
         "relation"
       ],
-      "description": "Roads carrying routes in this network are marked by shields modified by TOLL banners."
+      "description": "Roads carrying routes in this network are marked by shields."
     },
     {
       "key": "network",
@@ -3768,7 +3786,7 @@
       "object_types": [
         "relation"
       ],
-      "description": "Roads carrying routes in this network are marked by shields modified by TOLL banners."
+      "description": "Roads carrying routes in this network are marked by shields."
     },
     {
       "key": "network",
@@ -3776,7 +3794,7 @@
       "object_types": [
         "relation"
       ],
-      "description": "Roads carrying routes in this network are marked by shields modified by EXPR, TOLL banners."
+      "description": "Roads carrying routes in this network are marked by shields modified by EXPR banners."
     },
     {
       "key": "network",
@@ -3784,7 +3802,7 @@
       "object_types": [
         "relation"
       ],
-      "description": "Roads carrying routes in this network are marked by shields modified by TOLL, LOOP banners."
+      "description": "Roads carrying routes in this network are marked by shields modified by LOOP banners."
     },
     {
       "key": "network",
@@ -3792,7 +3810,7 @@
       "object_types": [
         "relation"
       ],
-      "description": "Roads carrying routes in this network are marked by shields modified by EXPR, TOLL, LOOP banners."
+      "description": "Roads carrying routes in this network are marked by shields modified by EXPR, LOOP banners."
     },
     {
       "key": "network",
