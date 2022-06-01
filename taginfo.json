@@ -1133,6 +1133,15 @@
     },
     {
       "key": "network",
+      "value": "US:CO:E470",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields.",
+      "icon_url": "https://raw.githubusercontent.com/ZeLonewolf/openstreetmap-americana/main/style/icons/shield40_us_co_e470.svg"
+    },
+    {
+      "key": "network",
       "value": "US:CT",
       "object_types": [
         "relation"
