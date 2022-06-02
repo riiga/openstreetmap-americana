@@ -1209,6 +1209,14 @@
     },
     {
       "key": "network",
+      "value": "US:FL:Turnpike",
+      "object_types": [
+        "relation"
+      ],
+      "description": "Roads carrying routes in this network are marked by shields."
+    },
+    {
+      "key": "network",
       "value": "US:FL:CR:Alachua",
       "object_types": [
         "relation"
